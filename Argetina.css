@@ -63,4 +63,7 @@ body {
 }
 .texto{
     color: #fdfdfe;
-    }
+}
+img,p{
+    display: inline-block;
+}
